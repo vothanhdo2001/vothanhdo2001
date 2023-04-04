@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vothanhdo2001&show_icons=true&locale=en" alt="vothanhdo2001" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vothanhdo2001&theme=dark&show_icons=true)
+
