@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Thanh Do</h1>
-<div>
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="center" />
+<div align="center">
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" />
   </div>
 <div align="center">
 <a href="https://github.com/BharatKammakatla">
