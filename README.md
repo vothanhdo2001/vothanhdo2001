@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm VÕ THÀNH ĐÔ</h1>
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vothanhdo2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vothanhdo2001" height="30" width="40" /></a>
-<a href="https://fb.com/vothanhdo2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vothanhdo2001" height="30" width="40" /></a>
-</p>
-
 
 <a href="https://github.com/BharatKammakatla">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=vothanhdo2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhdo2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
