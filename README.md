@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Thanh Do</h1>
 <div align="center">
+<img  src="./mona-loading.gif" height="290px" />
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" />
   </div>
 <div align="center">
